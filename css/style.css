@@ -3,13 +3,13 @@ body {
   font-family: 'Roboto Slab', serif;
   font-size: 14px;
 }
-a {
+.header a {
   color: inherit;
   text-decoration: none;
 }
-a:hover,
-a:active,
-a:focus {
+.header a:hover,
+.header a:active,
+.header a:focus {
   background-color: #FFFF66;
 }
 h1 {
